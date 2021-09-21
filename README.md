@@ -1,2 +1,1 @@
-site em desenvolvimento. 
-porém já responsivo :)
+site em desenvolvimento porém já responsivo :)
