@@ -1,1 +1,2 @@
-# website-responsivo
+site em desenvolvimento. 
+porém já responsivo :)
